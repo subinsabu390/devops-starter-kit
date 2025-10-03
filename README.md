@@ -1,1 +1,1 @@
-“This is a DevOps starter kit with CI/CD, Kubernetes, and monitoring built-in. Clone it to see how apps can be deployed automatically to Kubernetes with observability included.”
+This is a DevOps starter kit with CI/CD, Kubernetes, and monitoring built-in. Clone it to see how apps can be deployed automatically to Kubernetes with observability included.
