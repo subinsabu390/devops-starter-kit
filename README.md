@@ -1,2 +1,1 @@
-# devops-starter-kit
-DevOps starter kit involving CI/CD, helm, k8s and monitoring tools.
+“This is a DevOps starter kit with CI/CD, Kubernetes, and monitoring built-in. Clone it to see how apps can be deployed automatically to Kubernetes with observability included.”
